@@ -16,3 +16,4 @@ vendor/
 __pycache__/
 *.log
 # <<< project guide (managed) <<<
+*.py[cod]
